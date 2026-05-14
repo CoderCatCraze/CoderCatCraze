@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CoderCatCraze
-- 👀 I’m interested in coding in maker a video game and also learning python in general
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing becuz im doomy
-- 📫 Mail me at supercatcraze@gmail.com idk
+Hello
+I make Gorilla Tag Videos
+Regular Gaming Videos
+Virtual Reality Videos
+if you want to be friends with me, give me help or taco bell either is good
 
 <!---
-CoderCatCraze is a ✨ special ✨
+CoderCatCraze is  ✨ special ✨
 --->
